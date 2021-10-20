@@ -50,6 +50,11 @@
   resolved "https://registry.yarnpkg.com/@fontsource/fira-mono/-/fira-mono-4.5.0.tgz#bea97a54b60dc269d1c78469b007835af44dfa7f"
   integrity sha512-KE+d3wmgq/YKM0BqgUF7p2yeBNi805Nfof1lC1wJ7E9i2EWoC363sGdKG+MQBVm+ei3GYZu+Bo8Xha1w1pkB7g==
 
+"@fontsource/fraunces@^4.5.0":
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/@fontsource/fraunces/-/fraunces-4.5.0.tgz#8d1993460c68d2b69861088f41269fbae8a40866"
+  integrity sha512-TF7YBff9oeqewvTwsiREgJ5/bpyyW2D0MYOycKnUyoP1ykmuencgxPn0amECFi+qhnQhkL3yTa59NTGJRUU12w==
+
 "@humanwhocodes/config-array@^0.5.0":
   version "0.5.0"
   resolved "https://registry.yarnpkg.com/@humanwhocodes/config-array/-/config-array-0.5.0.tgz#1407967d4c6eecd7388f83acf1eaf4d0c6e58ef9"
@@ -126,6 +131,16 @@
     magic-string "^0.25.7"
     require-relative "^0.8.7"
     svelte-hmr "^0.14.7"
+
+"@tailwindcss/typography@^0.5.0-alpha.2":
+  version "0.5.0-alpha.2"
+  resolved "https://registry.yarnpkg.com/@tailwindcss/typography/-/typography-0.5.0-alpha.2.tgz#70ce7ed3a501f5a814cc5a8e4a9b13e47d38f421"
+  integrity sha512-xeTOHK2ki2ZfmmL0ThdPShM6iPtVtsw9Lt/9X6ZpZ0eaueluQESGIaE7r/3ZqqrN5ljpWkg6/5n04jyIOwiChA==
+  dependencies:
+    lodash.castarray "^4.4.0"
+    lodash.isplainobject "^4.0.6"
+    lodash.merge "^4.6.2"
+    lodash.uniq "^4.5.0"
 
 "@trysound/sax@0.2.0":
   version "0.2.0"
@@ -1316,10 +1331,20 @@ lines-and-columns@^1.1.6:
   resolved "https://registry.yarnpkg.com/lines-and-columns/-/lines-and-columns-1.1.6.tgz#1c00c743b433cd0a4e80758f7b64a57440d9ff00"
   integrity sha1-HADHQ7QzzQpOgHWPe2SldEDZ/wA=
 
+lodash.castarray@^4.4.0:
+  version "4.4.0"
+  resolved "https://registry.yarnpkg.com/lodash.castarray/-/lodash.castarray-4.4.0.tgz#c02513515e309daddd4c24c60cfddcf5976d9115"
+  integrity sha1-wCUTUV4wna3dTCTGDP3c9ZdtkRU=
+
 lodash.clonedeep@^4.5.0:
   version "4.5.0"
   resolved "https://registry.yarnpkg.com/lodash.clonedeep/-/lodash.clonedeep-4.5.0.tgz#e23f3f9c4f8fbdde872529c1071857a086e5ccef"
   integrity sha1-4j8/nE+Pvd6HJSnBBxhXoIblzO8=
+
+lodash.isplainobject@^4.0.6:
+  version "4.0.6"
+  resolved "https://registry.yarnpkg.com/lodash.isplainobject/-/lodash.isplainobject-4.0.6.tgz#7c526a52d89b45c45cc690b88163be0497f550cb"
+  integrity sha1-fFJqUtibRcRcxpC4gWO+BJf1UMs=
 
 lodash.memoize@^4.1.2:
   version "4.1.2"
