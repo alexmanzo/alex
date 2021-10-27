@@ -1,0 +1,47 @@
+---
+title: Something New
+description: What's the deal with this blog? Let me explain.
+date: October 26, 2021
+readingTime: 3 min
+---
+
+<h2 class="text-center mt-0">{title}</h2>
+
+When I was a kid, I loved writing. I was part of [Power of the Pen](https://powerofthepen.org/) in middle school (I am delighted this still exists). I loved taking those prompts and crafting a short story with them.
+
+As often happens, I sought to find a way to turn my love for writing into a career, which led me to journalism. I wrote for the high school paper and entered my first year at Ball State (Go Cards!), intending to major in journalism.
+
+There was just one problem. I didn't like the news. I also didn't love talking to people. I've done a lot of work in therapy around social anxiety, but 18-year-old Alex didn't have a word for that yet.
+
+Journalism was a no-go. Long story short, I switched to focusing on video production. I worked in sports video production through my 20s, burned out, and then became a web developer.
+
+I love what I do for work now. However, 20 years after joining Power of the Pen, I still haven't returned to my love of writing.
+
+Enter: this blog.
+
+### What’s this blog about?
+
+I realize blogs should have a particular theme or topic. This blog isn't going to be one of those. The best description I have right now is that it will be my public journal.
+
+I have many thoughts whizzing through my brain at all times and want to share them with the world. My interests or hobbies are varied, and I'm not particularly interested in limiting myself to only one subject.
+
+Here's some of what I expect to write about:
+
+- Existential thoughts and feelings
+- Self-care, work-life balance, and mental health
+- Diet culture
+- Technical topics like "how I built this site"
+- Commentary on big news stories
+- Things I learn about (physics, investing, crypto, chess, who knows what else)
+- Books, movies, podcasts, and TV shows I love
+- Whatever else compels me enough to think and write about it.
+
+### Why should you read it?
+
+If I'm honest, I don't care if you read it. I simply want to cultivate a personal practice around writing.
+
+That said, I'm doing this in a blog format because I like sharing my thoughts. I consider myself to be a uniquely thoughtful and empathetic person with good insight.
+
+If you're interested in learning something, un-learning something, or expanding your horizons, read on!
+
+If you don't care what I have to say and think this is ridiculous... that's cool. There are plenty of other corners of the Internet for you to explore. Read Reddit or something.

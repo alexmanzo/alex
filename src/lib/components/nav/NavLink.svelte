@@ -1,6 +1,6 @@
 <script lang="ts">
   import { page } from '$app/stores'
-  import type { NavLinkType } from '../../types/navlink.type'
+  import type { NavLinkType } from '$lib/types/navlink.type'
 
   export let linkProps: NavLinkType
   $: isCurrentPath = $page.path === linkProps.path
