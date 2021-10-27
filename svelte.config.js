@@ -1,5 +1,6 @@
 import { mdsvex } from 'mdsvex'
 import preprocess from 'svelte-preprocess'
+import adapter from '@sveltejs/adapter-netlify'
 
 const mdsvexConfig = {
   extensions: ['.svelte.md', '.md', '.svx'],
@@ -29,6 +30,7 @@ const config = {
   kit: {
     // hydrate the <div id="svelte"> element in src/app.html
     target: '#svelte',
+    adapter: adapter(),
   },
 }
 
